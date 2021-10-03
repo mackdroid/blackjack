@@ -1,3 +1,3 @@
 # blackjack
-a thing i made in python for practise(nu booli)
+a thing i made in python for practise
 its kinda buggy but hey it works!
